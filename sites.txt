@@ -1,0 +1,4 @@
+https://google.com
+https://twitch.tv
+https://facebook.com
+http://localhost:8000
